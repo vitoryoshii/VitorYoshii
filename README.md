@@ -1,17 +1,17 @@
 <h1 align="center">Óla! eu sou Vitor Yoshii</h1>
-<h3 align="center">Aqui você encontrar um estudante de Front-end!</h3>
+<h3 align="center">Aqui você encontrar um estudante de Sistemas da Informação, que está no primeiro semestre.</h3>
 
-- 🌱 Atualmente estou estudando toda a base de **Frot-end**
+- 🌱 Atualmente estou estudando **Sistemas da Informação**
 
 - 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/Vitoryoshii](https://github.com/Vitoryoshii)
 
-- 💬 Pergunte-me sobre **HTML, CSS, JS**
+- 💬 Pergunte-me sobre **Tecnologias em gerais e linguagens.**
 
-- 📫 Contato: **vitoryoshii930@gmail.com**
+- 📫 Contato: **vitoryoshiiprofissional@gmail.com**
 
 - 📄 Sobre mim: [https://www.linkedin.com/in/vitor-yoshii-377132210/](https://www.linkedin.com/in/vitor-yoshii-377132210/)
 
-- ⚡ Curiosidade: **Gosto de jogar bola no tempo disponível**
+- ⚡ Curiosidade: **Final de semana para destrair a mente de tanto codigo.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
