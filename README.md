@@ -1,33 +1,34 @@
-<h1 align="center">Óla! eu sou Vitor Yoshii</h1>
-<h3 align="center">Aqui você encontrar um estudante de Sistemas da Informação, que está no primeiro semestre.</h3>
+# 👨🏻‍💻 Caio Vitor Yoshii Caçalho  
+**Desenvolvedor Backend**
 
-- 🌱 Atualmente estou estudando **Sistemas da Informação**
+Olá! Me chamo **Caio Vitor Yoshii Caçalho**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UniBTA**.  
+Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é **resolver problemas reais e transformar ideias em soluções eficazes**. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
 
-- 👨‍💻 Todos meus projetos estão disponíveis em: [https://github.com/Vitoryoshii](https://github.com/Vitoryoshii)
+---
 
-- 💬 Pergunte-me sobre **Tecnologias em gerais e linguagens.**
+## 🚀 Tecnologias & Ferramentas
 
-- 📫 Contato: **vitoryoshiiprofissional@gmail.com**
+<div style="display: flex; gap: 10px;">
+  <img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <!-- Adicione outras tecnologias que você domina -->
+</div>
 
-- 📄 Sobre mim: [https://www.linkedin.com/in/vitor-yoshii-377132210/](https://www.linkedin.com/in/vitor-yoshii-377132210/)
+---
 
-- ⚡ Curiosidade: **Final de semana para destrair a mente de tanto codigo.**
+## 🌐 Conecte-se comigo
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/vitoryoshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vitoryoshii" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vitor-yoshii-377132210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/vitor-yoshii-377132210/" height="30" width="40" /></a>
-<a href="https://instagram.com/vitor_yoshii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vitor_yoshii" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitor--yoshii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-yoshii-377132210/)  
+[![Instagram](https://img.shields.io/badge/@vitor_yoshii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_yoshii)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoryoshii&show_icons=true&theme=dark&locale=en&layout=compact" alt="vitoryoshii" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vitoryoshii&show_icons=true&theme=dark&locale=en" alt="vitoryoshii" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoryoshii&show_icons=true&theme=dark&locale=pt-br" alt="vitoryoshii" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoryoshii&show_icons=true&theme=dark&layout=compact&locale=pt-br" alt="vitoryoshii" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoryoshii&theme=dark" alt="vitoryoshii streak" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoryoshii&theme=dark" alt="vitoryoshii" /></p>
-
-
-  ![Snake animation](https://github.com/Vitoryoshii/Vitoryoshii/blob/output/github-contribution-grid-snake.svg)
+---
