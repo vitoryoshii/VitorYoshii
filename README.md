@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Caio Vitor Yoshii Caçalho  
 **Desenvolvedor Backend**
 
-Olá! Me chamo **Caio Vitor Yoshii Caçalho**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UniBTA**.  
+Olá! Me chamo **Caio Vitor Yoshii Caçalho**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na Universidade Brasileira de Tecnologia Avançada - UniBTA**.  
 Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é **resolver problemas reais e transformar ideias em soluções eficazes**. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
 
 ---
