@@ -1,7 +1,7 @@
-# 👨🏻‍💻 Caio Vitor Yoshii Caçalho  
+# 👨🏻‍💻 Vitor Yoshii   
 **Desenvolvedor Backend**
 
-Olá! Me chamo **Caio Vitor Yoshii Caçalho**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada**.  
+Olá! Me chamo **Vitor Yoshii**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada**.  
 Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é **resolver problemas reais e transformar ideias em soluções eficazes**. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
 
 ---
@@ -11,6 +11,10 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 <div style="display: flex; gap: 10px;">
   <img title="Python" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img title="Git" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img title="SQL" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img title="SQLI" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+  
+  
   <!-- Adicione outras tecnologias que você domina -->
 </div>
 
