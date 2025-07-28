@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vitor--yoshii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-yoshii-377132210/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-yoshii/)  
 [![Instagram](https://img.shields.io/badge/@vitor_yoshii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_yoshii)
 
 ---
