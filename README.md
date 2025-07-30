@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Vitor Yoshii   
 **Desenvolvedor Backend**
 
-Olá! Me chamo **Vitor Yoshii**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada**.  
+Olá! Me chamo **Vitor Yoshii**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada e Engenharia de Software na UNICID - Universidade Cidade de São Paulo**.  
 Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que essa área proporciona. O que mais me motiva é **resolver problemas reais e transformar ideias em soluções eficazes**. Estou sempre em busca de aprendizado, novos desafios e crescimento profissional.
 
 ---
