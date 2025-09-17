@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Vitor Yoshii   
+# 👨🏻‍💻 Vitor Yoshii 
 **Desenvolvedor Backend**
 
 Olá! Me chamo **Vitor Yoshii**, tenho 18 anos, sou natural de **São Paulo (SP)** e atualmente curso **Sistemas de Informação na UNIBTA - Instituto Brasileiro de Tecnologia Avançada e Engenharia de Software na UNICID - Universidade Cidade de São Paulo**.  
@@ -23,8 +23,10 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-yoshii/)  
-[![Instagram](https://img.shields.io/badge/@vitor_yoshii-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor_yoshii)
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/vitor-yoshii/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> 
+  <a href="https://instagram.com/vitor_yoshii" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-FF2D55?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> 
+</p>
 
 ---
 
@@ -33,7 +35,6 @@ Sou apaixonado por tecnologia, desenvolvimento e pela constante evolução que e
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoryoshii&show_icons=true&theme=dark&locale=pt-br" alt="vitoryoshii" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoryoshii&show_icons=true&theme=dark&layout=compact&locale=pt-br" alt="vitoryoshii" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitoryoshii&theme=dark" alt="vitoryoshii streak" />
 </div>
 
 ---
